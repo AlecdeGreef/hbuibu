@@ -1,0 +1,82 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url("fifak.jpg");
+}
+
+/*--- navigation bar ---*/
+
+.navbar {
+  background: #2e84b3;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+  font-family: Rockwell;
+  color: black;
+
+
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.nav-link:hover {
+  color: blue;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+
+h1{
+padding-top: 10px;
+  text-align: center;
+  font-family: Rockwell;
+}
+article {
+width: 400px;
+height: 400px;
+margin: 50px;
+margin-top: 100px;
+margin-left: 90px;
+background-color: #2e84b3;
+float: left;
+}
+img {
+width: 400px;
+height: 300px;
+
+
+}
+
+#tekst {
+width: 200px;
+
+ background-color: #2e84b3;
+ font-family: Rockwell;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ float: left;
+ margin-top: 150px;
+}
+
+
+
+#skillmoves {
+  width: 400px;
+  height: 400px;
+float: left;
+margin-left: 50px;
+  margin-top: 100px;
+  background-color: #2e84b3;
+
+
+}
